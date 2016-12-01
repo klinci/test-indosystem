@@ -19,6 +19,9 @@ http://{your-host}/{your-project}/public
 for example: http://localhost/test-indosystem/public
 
 To see the project page:
+
 1. Open: http://localhost/test-indosystem/public/guest/guest-book for guestbook entry.
+
 2. Open: http://localhost/test-indosystem/public/guest/gallery for see all guestbook entries.
+
 3. Do login with admin: admin@admin.com / secret to see the difference with guest. For guest no need to login.
